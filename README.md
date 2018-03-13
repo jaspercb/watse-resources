@@ -6,13 +6,14 @@ Useful resources for Software Engineering students at the University of Waterloo
 
 [What should I do in the summer before first year?](#summer-before)
 
-[1A](#1A)
+[1A](#1a)
 
-[1B](#1B)
+[1B](#1b)
 
-[3A](#3A)
+[2B](#2b)
 
-## What should I do in the summer before first year? <a name="summer-before"></a>
+<a name="summer-before"></a>
+## What should I do in the summer before first year?
 * Relax.
 * Enjoy your summer.
 * If you happen to enjoy programming, then program. If you happen to enjoy something else, do that.
