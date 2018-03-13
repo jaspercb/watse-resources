@@ -4,8 +4,7 @@ Useful resources for Software Engineering students at the University of Waterloo
 
 # Table of Contents
 
-[What should I do in the summer before first year?](#summer-before)
-
+* [What should I do in the summer before first year?](#summer-before)
 * [1A](#1a)
   - [MATH115](math115)
   - [MATH117](math117)
